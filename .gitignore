@@ -1,0 +1,6 @@
+.env
+*.log
+.DS_Store
+reassignment-plan.json
+reassignment.json
+topics-to-move.json
